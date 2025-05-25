@@ -1,0 +1,12 @@
+# Core Libraries
+ultralytics==8.0.227 (model tracking)
+
+opencv-python (perspective transforms)
+
+numpy (array and matrix calculations)
+
+ffmpeg (file conversion)
+
+pvporcupine (audio detection)
+
+pyaudio (audio detection)

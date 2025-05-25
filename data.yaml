@@ -1,0 +1,7 @@
+# data/data.yaml
+path: C:/Users/alexf/Documents/ReflectAI/dataset
+train: images/train
+val: images/train
+
+nc: 2
+names: ['volleyball', 'player']
